@@ -1,3 +1,5 @@
+
+//variables
 console.log("hello world")
 //var is a keyword to declare a variable.Redecalartion is possibe using var
 var a=4
